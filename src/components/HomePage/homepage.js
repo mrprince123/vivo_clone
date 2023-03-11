@@ -47,21 +47,26 @@ const Homepage = () => {
           </div>
 
 
-          <div className='top_third_div'>
-            <div>
-              <img src={imgEight} ></img>
-              <img src={imgFive} ></img>
-            </div>
-            <div>
-              <img src={imgSix} ></img>
-            </div>
-            <div>
-              <img src={imgSeven} ></img>
-              <img src={imgFour} ></img>
-            </div>
+          <div className='top_third'>
+            <h1>DISCOVER</h1>
+            <div className='top_third_div'>
+              <div>
+                <img src={imgEight} ></img>
+                <img src={imgFive} ></img>
+              </div>
+              <div>
+                <img src={imgSix} ></img>
+              </div>
+              <div>
+                <img src={imgSeven} ></img>
+                <img src={imgFour} ></img>
+              </div>
 
 
+            </div>
           </div>
+
+
 
         </div>
       </div>

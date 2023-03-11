@@ -86,6 +86,14 @@
     padding: 0px;
 }
 
+.top_third{
+    background-color: #f5f6fb;
+    padding: 5%;
+}
+
+.top_third h1{
+    padding: 0;
+}
 
 .top_third_div{
     display: flex;
@@ -98,3 +106,4 @@
     border-radius: 30px;
     padding: 10px;
 }
+
